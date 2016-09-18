@@ -1,2 +1,4 @@
 # Tutorial-2
-Deep Learning Tutorials
+Deep Learning Tutorials.
+
+Code from tensorflow.com/turorials
